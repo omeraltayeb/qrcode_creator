@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "680334824426",
+    "project_id": "qrcodecreator-ce8b4",
+    "storage_bucket": "qrcodecreator-ce8b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680334824426:android:5431cc7460fd1208579893",
+        "android_client_info": {
+          "package_name": "com.omerdeveloper.qrcode.qrcode_creator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680334824426-5ing8aego98huaf45f9v03ov58k0stfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omerdeveloper.qrcode.qrcode_creator",
+            "certificate_hash": "a786d2e48c2c940e9b13ac9c6ac97fa87943157f"
+          }
+        },
+        {
+          "client_id": "680334824426-1fd6mb0e6n07bbfdgladd5g4ia2ppbgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXtoYwKMCJnhWvkGphFxyZVNSFhRBVBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680334824426-1fd6mb0e6n07bbfdgladd5g4ia2ppbgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680334824426-dai6kbu3oot1joljfeglofkqlsg4isb4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omerdeveloper.qrcode.qrcodeCreator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

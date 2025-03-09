@@ -1,0 +1,2 @@
+/home/omer/StudioProjects/qrcode_creator/android/app/.cxx/Debug/r3u2l1p4/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/omer/StudioProjects/qrcode_creator/android/app/.cxx/Debug/r3u2l1p4/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/home/omer/StudioProjects/qrcode_creator/build/app/intermediates/cxx/Debug/r3u2l1p4/obj/arm64-v8a
